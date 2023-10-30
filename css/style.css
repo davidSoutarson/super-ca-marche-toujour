@@ -7,3 +7,15 @@
 h1{
     color: rgb(0, 162, 255);
 }
+
+main{
+    border: 2px solid rgb(0, 162, 255);
+    max-width: 940px;
+    padding: 5%;
+}
+
+article{
+
+    background-color: rgb(182, 204, 212);
+    margin: 5%;
+}
